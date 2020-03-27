@@ -1,6 +1,6 @@
 ---
 title: Annonces de Microsoft sur DuckDuckGo Private Search
-category: Translated
+category: Translated/French
 order: 808
 ---
 
